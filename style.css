@@ -1,0 +1,171 @@
+
+
+
+body {
+    background-color: rgb(240, 237, 231);
+    margin-left: 0px;
+    margin-right: 0px;
+    line-height: 1.5em;
+    margin-bottom: 0px;
+}
+
+
+img {
+    width: 375px;
+    height: 240px;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 230px;
+    height: 100px; 
+    justify-content: center;
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+}
+
+
+h1 {
+    font-size: 1.7em;
+    margin-left: 1em;
+    margin-right: 0.7em;
+    font-family: 'Playfair Display SC', serif;
+}
+
+h2 {
+    font-size: 1.4em;
+    width: 12em;
+    margin-left: 0.7em;
+    font-family: 'Playfair Display SC', serif;
+    font-weight: bolder;
+}
+
+h3 {
+    font-family: 'Oranienbaum', serif;
+}
+
+p {
+    width: 19em;
+    margin-left: 1em;
+    font-family: 'Oranienbaum', serif;
+    font-weight: 400;
+}
+
+nav {
+    border-top: 2px solid rgb(7, 40, 6);
+    border-bottom: 2px solid rgb(7, 40, 6);
+    margin-top: 0.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 2em;
+}
+
+nav ul {
+    display: flex;
+    padding: 0px;
+    justify-content:space-around;
+}
+
+
+nav ul li a {
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bolder;
+    font-family: 'Oranienbaum', serif;
+    color: rgb(0, 0, 0);
+}
+
+nav ul li {
+    display: block;
+}
+
+.icoontjes {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 1em;
+}
+
+.broek {
+    justify-content: flex-end;
+    display: flex;
+}
+
+.shirt {
+    justify-content: flex-end;
+    display: flex;
+}
+
+.recycle {
+    justify-content: flex-end;
+    display: flex;
+}
+
+.icoontjes img {
+    width: 100%;
+    height: 100%;
+}
+
+.lijstje ul li {
+    width: 19em;
+    font-family: 'Oranienbaum', serif;
+    list-style-type:square;
+}
+
+.vakje {
+    background-color: rgb(202, 163, 66);
+    border-radius: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 2em;
+    text-align: center;
+    font-weight: bolder;
+}
+
+footer {
+    background-color: rgb(7, 40, 6);
+    color: white;
+    padding-top: 1em; 
+    display: block;
+    width: 100%;
+    padding-bottom: 1em;
+    border-radius: 0.7em;
+    margin-top: 3em;
+}
+
+.footertext {
+    padding-left: 1em;
+} 
+
+
+.footerfotos {
+    width: 60px;
+    height: 60px;
+    display: inline-flex;
+    padding-left: 3em;
+    padding-top: 1em;
+}
+
+.footerfotos img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+    
+
+
